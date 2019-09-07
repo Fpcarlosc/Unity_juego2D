@@ -12,7 +12,7 @@ public class JugadorControl : MonoBehaviour
     private Rigidbody2D rb2d; // Componente para trabajar con físicas.
     private int contador; // Contador del número de objaetos conseguidos.
 
-    // Inicilización
+    // Inicialización
     void Start()
     {
         // Obtenemos la referencia al componente Rigidbody2D.
